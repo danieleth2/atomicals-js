@@ -105,11 +105,9 @@ https://atomicals.xyz
 
 https://x.com/atomicalsxyz (X - Formerly Twitter)
 
-## Donate to Atomicals Development
+## Donate to Atomicals Optimize
 
-We greatly appreciate any donation to help support Atomicals Protocol development. We worked out of passion and kindness for the world, we believe this technology must exist and be free for all to use. Bitcoin is our one hope for freedom and digital sovereignty and we intend to do our best to make it a reality.
-
-BTC: bc1pa5hvv3w3wjwfktd63zcng6yeccxg9aa90e34n9jrjw3thgc52reqxw6has
+We have put in effort to optimize the code. If it has been helpful to you, thank you for your donation.
+BTC: bc1pe608upsgh9dc3ywv0gp8vuhqa8rmct7v6m3qm20qk3vw6lktp03qrgh3aq
 
 ![Donate to Atomicals Development](donate.png)
-# atomicals-js
