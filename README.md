@@ -5,6 +5,9 @@
 
 ![Atomicals](banner.png)
 
+### What is different from the Atomicals official?
+Optimized multi-threading, which can increase mining speed by several tens of times.
+
 ### Install, Build and Run Tests
 
 ## Install
