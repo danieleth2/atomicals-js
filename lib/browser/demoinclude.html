@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>SDK Example</title>
+    <base href="/"/>
+    <script src="atomicals.js"></script>
+    <script language="javascript">
+      // On ready taken from https://stackoverflow.com/a/7053197
+      function r(f){/in/.test(document.readyState)?setTimeout(r,9,f):f()}
+      r(async () => {
+        // Do stuff with window.atomicals
+      });
+    </script>
+  </head>
+  <body>
+  
+    <div id="results" style="word-break: break-word"></div>
+  </body>
+</html>

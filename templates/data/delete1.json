@@ -1,0 +1,11 @@
+{
+  "some": true,
+  "dec": "should not update because not true",
+  "shouldnotadd": 1,
+  "shouldalsonotadd": 0,
+  "nested": {
+      "newfield": "newvaluetest",
+      "another": true,
+      "array": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "",
+    "desc": "",
+    "image": "atom:btc:dat:<location of store-file data>/image.png",
+    "decimals": 2,
+    "links": {
+        "x": {
+            "v": "https://x.com/..."
+        },
+        "website": {
+            "v": "https://..."
+        },
+        "realm": {
+            "v": "atom:btc:realm:myrealmname.subrealm"
+        },
+        "discord": {
+            "v": "https://discord.gg/..."
+        }
+    },
+    "legal": {
+        "terms": ""
+    }
+}

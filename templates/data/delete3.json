@@ -1,0 +1,12 @@
+{
+  "some": true,
+  "dec": true,
+  "nested": true,
+  "bitcoin.png": true,
+  "shouldnotadd": true,
+  "shouldalsonotadd": true,
+  "forrealnotaddbetternot": false,
+  "forrealalsonotadd": 1,
+  "hello": true
+}
+

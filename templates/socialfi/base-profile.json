@@ -1,0 +1,45 @@
+{
+    "v": "v1",
+    "name": "User entity name",
+    "image": "atom:btc:id:<atomicalId>/image.jpg",
+    "banner": "",
+    "wallets": {
+        "btc": {
+            "address": "btc address to receive donations"
+        },
+        "doge": {
+            "address": "doge address to receive donations"
+        },
+        "nostr": {
+            "nip05": "...any other nostr fields"
+        }
+    },
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "links": [
+        {
+            "group": "social",
+            "meta": {
+                "order": 1,
+                "note": "This section can be used to give presentation instructions",
+                "display": "bottom"
+            },
+            "items": {
+                "0": {
+                    "type": "instagram",
+                    "name": "@loremipsum",
+                    "url": "https://instagram.com/loremipsum9872"
+                },
+                "1": {
+                    "type": "x",
+                    "name": "@loremipsum9872",
+                    "url": "https://x.com/loremipsum9872"
+                },
+                "2": {
+                    "type": "youtube",
+                    "name": "@loremipsum9872",
+                    "url": "https://www.youtube.com/@GuitarMelodies2023"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "some": "value",
+  "dec": 9183.32310,
+  "nested": {
+      "struct": "data.",
+      "another": {
+        "inside": "omega",
+        "number": 123
+      },
+      "array": [
+        {
+          "elem": 12,
+          "elem2": "sss"
+        },
+        {
+          "item": 99,
+          "item2": "xyz"
+        }
+      ]
+  },
+  "bitcoin.png": {
+    "replaced": "value"
+  }
+}

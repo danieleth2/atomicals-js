@@ -1,0 +1,15 @@
+{
+  "name": "Collection Name",
+  "image": "atom:btc:dat:<location of store-file data>/image.png",
+  "items": {
+    "0": {
+      "id": "84718b469c40b1bcc7cb324b8e24e4e442f88cd913687ea2bc7b3e79d4fc4fdei0"
+    },
+    "1": {
+      "id": "1070d7c98304bf5ac9a5addceb13e0ce4e840641f82d71d84cebbdac427c1f4fi0"
+    },
+    "9999": {
+      "id": "14a0d7c98304bf5ac9a5addceb1de0ce4e840641f82d71d84cebbdac427c1fc3i0"
+    }
+  }
+}

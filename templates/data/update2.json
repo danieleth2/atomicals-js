@@ -1,0 +1,14 @@
+{
+  "some": 7777,
+  "dec": 1679,
+  "nested": {
+      "newfield": "newvalue",
+      "another": {
+        "inside": "betaupdated",
+        "number": 42
+      },
+      "array": {
+        "sub": "elementupdated"
+      }
+  }
+}

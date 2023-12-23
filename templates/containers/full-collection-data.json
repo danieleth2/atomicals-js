@@ -1,0 +1,7 @@
+{
+  "links": {
+    "realm": {
+      "v": "atom:btc:realm:myrealmname.subrealm"
+    }
+  }
+}

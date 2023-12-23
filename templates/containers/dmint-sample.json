@@ -1,0 +1,13 @@
+{
+  "dmint": {
+    "v": "1",
+    "mint_height": 1,
+    "items": 40,
+    "rules": [
+      {
+        "p": ".*",
+        "bitworkc": "1234"
+      }
+    ]
+  }
+}

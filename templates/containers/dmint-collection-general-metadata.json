@@ -1,0 +1,20 @@
+{
+  "name": "Collection Name",
+  "desc": "Collection description",
+  "image": "atom:btc:dat:<location of store-file data>/image.png",
+  "legal": {
+    "terms": "...",
+    "license": "CC"
+  },
+  "links": {
+    "x": {
+      "v": "https://x.com/..."
+    },
+    "website": {
+      "v": "https://..."
+    },
+    "discord": {
+      "v": "https://discord.gg/..."
+    }
+  }
+}
